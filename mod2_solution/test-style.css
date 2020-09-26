@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	
+}
+
+h1 {
+	text-align: center;
+	font-family: arial;
+	font-size: large;
+}	
+#main {
+	background-color: blue;
+}
+
+.only {
+	width: 50%;
+	border: 1px solid black;
+	padding: 10px;
+    background-color: yellow;
+	/*color: green;*/
+	
+	float: left;
+}
+section {
+	clear: left
+}
+
+	
+
